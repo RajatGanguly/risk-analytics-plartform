@@ -1,0 +1,19 @@
+text# Dependency directories
+**/node_modules/
+
+# Python Virtual Environments
+**/.venv/
+**/venv/
+**/ENV/
+**/env/
+**/target/
+
+# Python cache files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
